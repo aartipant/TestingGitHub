@@ -1,2 +1,2 @@
 # TestingGitHub
-learning about GitHub is a repository for making bare minimum of github.
+learning about GitHub is a repository for showing bare minimum of github.
